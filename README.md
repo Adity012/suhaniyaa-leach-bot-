@@ -1,8 +1,8 @@
-## Modified Text Pyro Bot by @noob_creator
+## Modified Text Pyro Bot by @LPRPDV 
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/Adity012/leechxankush">
+<a href="https://heroku.com/deploy?template=">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
